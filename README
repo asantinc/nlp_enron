@@ -1,0 +1,4 @@
+To run Pagerank, Hits and Auth: 'python enron.py'
+This will overwrite the existing pr.txt, auth.txt and hubs.txt.
+
+To print out a new graph, set the variable PRODUCE_GRAPH in enron.py equal to True. However, this will require running the program on a computer that has graphviz installed (DICE machines do not).
